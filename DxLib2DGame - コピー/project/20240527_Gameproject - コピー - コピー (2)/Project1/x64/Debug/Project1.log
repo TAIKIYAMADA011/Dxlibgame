@@ -1,0 +1,8 @@
+﻿  GameData.cpp
+  Gamefanction.cpp
+  GameMain.cpp
+  コードを生成中...
+GameMain.obj : error LNK2019: 未解決の外部シンボル "void __cdecl StartScreen(double)" (?StartScreen@@YAXN@Z) が関数 WinMain で参照されました
+GameMain.obj : error LNK2019: 未解決の外部シンボル "void __cdecl GameProcessing(double)" (?GameProcessing@@YAXN@Z) が関数 WinMain で参照されました
+GameMain.obj : error LNK2019: 未解決の外部シンボル "void __cdecl ResultScreen(void)" (?ResultScreen@@YAXXZ) が関数 WinMain で参照されました
+D:\ゲームプログラミングI\DxLib2DGame - コピー\project\20240527_Gameproject - コピー\x64\Debug\Project1.exe : fatal error LNK1120: 3 件の未解決の外部参照
